@@ -1,0 +1,26 @@
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\bin\Debug\Inserttemp.exe.config
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\bin\Debug\Inserttemp.exe
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\bin\Debug\Inserttemp.pdb
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.csprojResolveAssemblyReference.cache
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.Form1.resources
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.Properties.Resources.resources
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.csproj.GenerateResource.Cache
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.exe
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.pdb
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\bin\Debug\Inserttemp.exe.manifest
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\bin\Debug\Inserttemp.application
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.exe.manifest
+c:\users\oi\documents\visual studio 2013\Projects\Inserttemp\Inserttemp\obj\Debug\Inserttemp.application
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\bin\Debug\Inserttemp.exe.config
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.exe
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.pdb
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\bin\Debug\Inserttemp.exe.manifest
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\bin\Debug\Inserttemp.application
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\bin\Debug\Inserttemp.exe
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\bin\Debug\Inserttemp.pdb
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.csprojResolveAssemblyReference.cache
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.Form1.resources
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.Properties.Resources.resources
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.csproj.GenerateResource.Cache
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.exe.manifest
+C:\Users\OI\Documents\GIT\SqlInsertFromFolder\Inserttemp\obj\Debug\Inserttemp.application
